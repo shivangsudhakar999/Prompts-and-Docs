@@ -1,0 +1,20 @@
+Step 1 — Clone repo on Friend's Laptop
+Run this in the terminal on the friend's laptop:
+powershellcd C:\
+git clone https://github.com/shivangsudhakar999/FinTrack-Expense-Splitting.git
+cd FinTrack-Expense-Splitting
+code .
+This opens the repo in VS Code on the friend's laptop.
+
+Step 2 — Set up the folder structure
+Run this in the friend's laptop terminal inside the project:
+powershellmkdir -p .claude/rules, src/transactions, tests
+New-Item CLAUDE.md -ItemType File
+New-Item README.md -ItemType File
+New-Item requirements.txt -ItemType File
+
+Step 3 — Login to Claude Code
+powershellclaude
+It will open a browser — log in with your Anthropic account, then come back to terminal.
+
+Do these 3 steps on the friend's laptop now and share a screenshot. Once Claude Code is running inside the project folder, we take Screenshot 1.1 and the assessment officially begins! 🚀
