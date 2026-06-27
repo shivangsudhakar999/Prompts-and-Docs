@@ -1,3 +1,6 @@
+These are the documents which contain the instructions rules and everything related to the project submission. We are using VS code and Claude/co pilot. Help me to configure first VS code and see whether everything is working fine before proceeding. There are proper screenshots instrcution which we need to follow so clearly tell me when to capture it as i have to submit the document. We need to properly follow the order. I have attached all the instrcutions and important Points
+
+
 OJT instrucs.
 Skip to main content
 HOME
